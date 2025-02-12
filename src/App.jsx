@@ -56,8 +56,6 @@ function App() {
     }
   }
 
-
-
   return (
     <main>
       <div className='searching-box'>
